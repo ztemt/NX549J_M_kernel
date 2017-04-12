@@ -1,0 +1,33 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libmincrypt_intermediates/rsa.o: \
+  system/core/libmincrypt/rsa.c \
+  build/core/combo/include/arch/linux-x86/AndroidConfig.h \
+  system/core/include/mincrypt/rsa.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/inttypes.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/features.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/predefs.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdint.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/stdint.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wchar.h \
+  system/core/include/mincrypt/sha.h \
+  system/core/include/mincrypt/hash-internal.h \
+  system/core/include/mincrypt/sha256.h
+  system/core/libmincrypt/rsa.c :
+  build/core/combo/include/arch/linux-x86/AndroidConfig.h :
+  system/core/include/mincrypt/rsa.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/inttypes.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/features.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/predefs.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/sys/cdefs.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wordsize.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs-64.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdint.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/stdint.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wchar.h :
+  system/core/include/mincrypt/sha.h :
+  system/core/include/mincrypt/hash-internal.h :
+  system/core/include/mincrypt/sha256.h :

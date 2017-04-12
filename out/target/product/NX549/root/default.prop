@@ -1,0 +1,20 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=0
+ro.allow.mock.location=1
+ro.debuggable=1
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2017年 01月 18日 星期三 16:37:22 CST
+ro.bootimage.build.date.utc=1484728642
+ro.bootimage.build.fingerprint=nubia/NX549J/NX549J:6.0.1/MMB29M/eng.wangtaotao.20170118.163137:eng/test-keys
+persist.sys.usb.config=adb

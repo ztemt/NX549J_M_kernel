@@ -1,0 +1,5 @@
+out/host/linux-x86/obj/SHARED_LIBRARIES/libcutils_intermediates/open_memstream.o: \
+  system/core/libcutils/open_memstream.c \
+  build/core/combo/include/arch/linux-x86/AndroidConfig.h
+  system/core/libcutils/open_memstream.c :
+  build/core/combo/include/arch/linux-x86/AndroidConfig.h :

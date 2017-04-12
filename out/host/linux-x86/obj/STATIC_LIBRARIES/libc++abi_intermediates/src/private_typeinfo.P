@@ -1,0 +1,49 @@
+out/host/linux-x86/obj/STATIC_LIBRARIES/libc++abi_intermediates/src/private_typeinfo.o: \
+  external/libcxxabi/src/private_typeinfo.cpp \
+  build/core/combo/include/arch/linux-x86/AndroidConfig.h \
+  external/libcxxabi/src/private_typeinfo.h \
+  external/libcxx/include/typeinfo external/libcxx/include/__config \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/unistd.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/features.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/predefs.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/environments.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/types.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/confname.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/getopt.h \
+  external/libcxx/include/exception external/libcxx/include/cstddef \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/__stddef_max_align_t.h \
+  external/libcxx/include/type_traits external/libcxx/include/cstdint \
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdint.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/stdint.h \
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wchar.h
+  external/libcxxabi/src/private_typeinfo.cpp :
+  build/core/combo/include/arch/linux-x86/AndroidConfig.h :
+  external/libcxxabi/src/private_typeinfo.h :
+  external/libcxx/include/typeinfo external/libcxx/include/__config :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/unistd.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/features.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/predefs.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/sys/cdefs.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wordsize.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/gnu/stubs-64.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/posix_opt.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/environments.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/types.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/typesizes.h :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stddef.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/confname.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/getopt.h :
+  external/libcxx/include/exception external/libcxx/include/cstddef :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/__stddef_max_align_t.h :
+  external/libcxx/include/type_traits external/libcxx/include/cstdint :
+  prebuilts/clang/linux-x86/host/3.6/bin/../lib/clang/3.6/include/stdint.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/stdint.h :
+  prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8//sysroot/usr/include/x86_64-linux-gnu/bits/wchar.h :
