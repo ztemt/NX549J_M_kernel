@@ -1,4 +1,8 @@
 # nubia Z11 miniS XKernel #
 
-## Feautures ##
+## Feautures: ##
 * ZEN i/o Scheduler
+
+## TODO: ##
+* Add more i/o Schedulers
+* Add more Governors
